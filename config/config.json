@@ -1,0 +1,11 @@
+{
+	"facebook_app_id"		: "278718868957030",
+	"facebook_app_secret"	: "ee16686f94e386eb13f1f4827988e0bb",
+	"username"				: "bastien",
+	"password"				: "bastien",
+	"database"				: "agence_immobiliere",
+	"db_host"				: "localhost",
+	"db_port"				: 5432,
+	"session_secret"		: "soSecret",
+	"port"					: 3000
+}
